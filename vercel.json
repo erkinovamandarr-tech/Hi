@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "index.js": {
-      "runtime": "nodejs@18"
-    }
-  }
-}
